@@ -13,6 +13,8 @@ Depending on the data present, the function of z will take up the form z = b0 + 
 
 Here, b is the coefficient that is being optimized, alpha is the learning rate, y is corresponding y value of that data point, prediction is the value attained by 1/(1+(e^-z)) and x is the corresponding input value.
 
+This is a more specific formula, but in general the coefficient is updated based on the equation coefficient = coefficient - alpha∑((1/(1+e^z))-y)x, where is alpha is again the learning the rate and z is the linear function.
+
 **Final outcome:**
 So after performing numerous iterations upon the coefficients, a highly accurate value of the coefficients is attained which can then be used in the sigmoid function to receive the probability for any of the x inputs. 
 
