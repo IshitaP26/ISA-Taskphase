@@ -32,6 +32,7 @@ So after performing numerous iterations upon the coefficients, a highly accurate
 To provide a clearer picture of the situation, if the transformed value is between 0 and 0.5, it can be made into 0 and if it between 0.5 and 1, it can be made into 1. In this way the conditional probabilities for two labels (0 and 1) can be defined, making the logistic regression a function which predicts the probability of the occurrence of a binary outcome.
 
 **Resources Used**
+
 https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/
 https://machinelearningmastery.com/logistic-regression-for-machine-learning/
 https://www.analyticssteps.com/blogs/introduction-logistic-regression-sigmoid-function-code-explanation
