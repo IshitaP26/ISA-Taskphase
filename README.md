@@ -9,3 +9,4 @@ I will be exploring topics under Machine Learning. The ones covered so far are:
 3. Convolutional Neural Network(CNN)
     - Python code to implement CNN for MNIST digit dataset
     - Theory report upon CNN
+4. Invisibility cloak using OpenCV
