@@ -19,6 +19,6 @@ And once the cloak area has been detected, the pixels of that area are replaced 
 
 Resources Used:
 
-https://analyticssteps.com/blogs/invisible-cloak-using-opencv
-https://learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
-https://www.geeksforgeeks.org/erosion-dilation-images-using-opencv-python/
+1. https://analyticssteps.com/blogs/invisible-cloak-using-opencv
+2. https://learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
+3. https://www.geeksforgeeks.org/erosion-dilation-images-using-opencv-python/
