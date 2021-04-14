@@ -10,3 +10,6 @@ I will be exploring topics under Machine Learning. The ones covered so far are:
     - Python code to implement CNN for MNIST digit dataset
     - Theory report upon CNN
 4. Invisibility cloak using OpenCV
+    - Code to create an invisibility cloak using OpenCV
+    - Theory report on process of the same
+5. Ball Detection using OpenCV
