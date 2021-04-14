@@ -1,6 +1,6 @@
 # Ball Detection and Tracking using OpenCV
 
-**Equation of center and thickness???**
+
 
 In this process the ball is first detected on the screen and then its movement across the screen is tracked. The colorspace is converted from the normal RGB space to HSV for a better detection of the colors, with the upper and lower boundaries of the color being used to detect the ball of that specific color, in this case it is yellow.
 
